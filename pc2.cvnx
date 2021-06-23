@@ -1,0 +1,18 @@
+<vnx_cfg>
+<default win="0,0,800,500" ontop="no"/>
+<vm name="c1" win="0,100,800,500" status="minimized"/>
+<vm name="c2" win="0,500,800,500" status="minimized"/>
+<vm name="fw" win="300,300,800,500" status="minimized"/>
+<vm name="lb" win="500,300,800,500" status="minimized"/>
+<vm name="s1" win="800,0,800,500" status="minimized"/>
+<vm name="s2" win="800,200,800,500" status="minimized"/>
+<vm name="s3" win="800,400,800,500" status="minimized"/>
+<vm name="s4" win="800,600,800,500" status="minimized"/>
+<vm name="nagios" win="1000,600,800,500" status="minimized"/>
+<vm name="nas1" win="1200,0,800,500" status="minimized"/>
+<vm name="nas2" win="1200,250,800,500" status="minimized"/>
+<vm name="nas3" win="1200,500,800,500" status="minimized"/>
+<vm name="bbdd" win="1200,750,800,500" status="minimized"/>
+<vm name="ges" win="1200,750,800,500" status="minimized"/>
+<vm name="logs" win="1200,750,800,500" status="minimized"/>
+</vnx_cfg>
